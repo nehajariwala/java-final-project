@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": "766f",
+      "username": "neha",
+      "email": "nehamjariwala98@gmail.com",
+      "Password": "12345"
+    }
+  ],
+  "result": [
+    {
+      "id": "d669",
+      "name": "neha",
+      "subject": "react",
+      "score": "555",
+      "date": "0055-05-05"
+    },
+    {
+      "id": "b684",
+      "name": "xyz",
+      "subject": "java script",
+      "score": "66",
+      "date": "0023-02-22"
+    },
+    {
+      "id": "b4ae",
+      "name": "abc",
+      "subject": "node",
+      "score": "44",
+      "date": "0024-07-07"
+    },
+    {
+      "id": "1700",
+      "name": "pqr",
+      "subject": "html",
+      "score": "99",
+      "date": "0024-05-05"
+    }
+  ]
+}
